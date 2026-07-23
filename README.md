@@ -12,7 +12,7 @@ In my final year, I gave in and started taking extra courses in statistics, comp
 
 ### Il Mio Percorso Attuale — What I'm Doing Now
 
-The MSc gave me the theoretical foundations. Now I'm deliberately pointing myself at deployment. I am actively mastering MLOps, system design, and hands-on cloud deployment to bridge the gap between local notebooks and production scale. Building upon these core deployment fundamentals, my next frontier is Generative AI - engineering Large Language Models from scratch and building agentic applications. *A poco a poco.*
+The MSc gave me the theoretical foundations. Key coursework included Statistical Machine Learning, Bayesian Inference, Algorithmic Data Minining, Neural Networks for Data Science, Advanced ML, Cloud Computing, and Big Data Computing. Now I'm deliberately pointing myself at deployment. I am actively learning ML engineering, system design, and hands-on cloud deployment to bridge the gap between local notebooks and production scale. Building upon these core deployment fundamentals, my next frontier is Generative AI - engineering Large Language Models from scratch and building agentic applications. *A poco a poco.*
 
 ### Hackathons
 
